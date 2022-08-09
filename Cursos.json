@@ -1,0 +1,44 @@
+{
+  "bookmarks": [
+    {
+      "title": "GraphQL & MySQL CRUD con Nodejs, Typescript y TypeORM",
+      "tags": "GraphQl, MySql, sql, CRUD, node, typescript, orm, TypeORM",
+      "uri": "https://www.youtube.com/watch?v=8_DuZHJBB-k&ab_channel=FaztCode"
+    },
+    {
+      "title": "Typescript & GraphQL | TypeORM, Type-GraphQL y ApolloServer",
+      "tags": "GraphQl, MySql, sql, CRUD, node, typescript, orm, TypeORM",
+      "uri": "https://www.youtube.com/watch?v=mNsvOon1L_c&ab_channel=FaztCode"
+    },
+    {
+        "title": "Fazt Code",
+        "tags": "cursos, YouTube, programación",
+        "uri": "https://www.youtube.com/c/FaztCode/videos"
+    },
+    {
+        "title": "GraphQL Nodejs, Mongodb & Json Web Tokens | Blog API - Ejemplo Simple",
+        "tags": "GraphQl, Node, MongoDB, sql, CRUD, node, JSON, JWT",
+        "uri": "https://www.youtube.com/watch?v=B7EzJOqpuw8&ab_channel=FaztCode"
+    },
+    {
+        "title": "React Auth0 Login , Introducción Práctica",
+        "tags": "login, Auth0, React",
+        "uri": "https://www.youtube.com/watch?v=DRbXvN10_XA&ab_channel=FaztCode"
+    },
+    {
+        "title": "Nextjs Curso Práctico | Framework de SSR basado en React",
+        "tags": "Nextjs",
+        "uri": "https://www.youtube.com/watch?v=Tn6QYliFBcs&ab_channel=FaztCode"
+    },
+    {
+        "title": "Typescript | Curso Práctico Rápido desde Cero para principiantes",
+        "tags": "Typescript",
+        "uri": "https://www.youtube.com/watch?v=Xxqh0RoWxNc&list=PLL0TiOXBeDaiMhNhPU1oXMMjYjW1nOBTB&ab_channel=Fazt"
+    },
+    {
+      "title": "Aprende Node.js y Express - Curso desde Cero",
+      "tags": "Node, freeCodeCamp, express, backend",
+      "uri": "https://www.youtube.com/watch?v=1hpc70_OoAg"
+    }
+  ]
+}
